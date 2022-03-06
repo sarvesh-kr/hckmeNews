@@ -44,6 +44,7 @@ a {
     color: antiquewhite;
     font-weight: bolder;
     font-size: 200%;
+    box-shadow: 5px 1px 10px rgba(27, 28, 32, 0.151);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
